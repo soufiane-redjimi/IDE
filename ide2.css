@@ -1,0 +1,47 @@
+img{
+    height:15vw;
+    width:15vw;
+    float:center;
+}
+header{
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+    background-color:rgba(128, 128, 128, 0.377);
+    color:white;
+    text-align:center;
+    float:center;
+    font-family:"Segoe UI","Helvetica Neue","Helvetica",Arial,sans-serif;
+}
+footer{
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+    background-color:rgba(128, 128, 128, 0.377);
+    color:white;
+    text-align:center;
+    float:center;
+    font-family:"Segoe UI","Helvetica Neue","Helvetica",Arial,sans-serif;
+}
+button{
+    color: black;
+    border-width: 10px;
+    border-color:yellow;
+    border-radius: 75px;
+    letter-spacing: 1px;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding-left: 0.7em;
+    padding-right: 1em;
+    background-color: yellow;
+    float:center;
+}
+body{
+ background-color:green;
+}
+.IDENotePad{
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+    background-color:rgba(128, 128, 128, 0.377);
+    color:white;
+    text-align:center;
+    float:center;
+    font-family:"Segoe UI","Helvetica Neue","Helvetica",Arial,sans-serif;
+
+}

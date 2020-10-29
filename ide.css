@@ -1,0 +1,74 @@
+header{
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+    background-color:rgba(128, 128, 128, 0.377);
+    color:white;
+    text-align:center;
+    float:center;
+    font-family:'Courier New', Courier, monospace;
+}
+button{
+    color: #ffffff;
+    border-width: 10px;
+    border-color: #ffca4b;
+    border-radius: 75px;
+    letter-spacing: 1px;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding-left: 0.7em;
+    padding-right: 1em;
+    background-color: #ffca4b;
+    float:center;
+}
+.IDEvisual{
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+    background-color:rgba(128, 128, 128, 0.377);
+    color:white;
+    text-align:center;
+    float:left;
+    font-family:'Courier New', Courier, monospace;
+    display:flex;
+}
+.IDENotePad{
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+    background-color:rgba(128, 128, 128, 0.377);
+    color:white;
+    text-align:center;
+    float:right;
+    font-family:'Courier New', Courier, monospace;
+    display:flex;
+}
+.IDEphp{
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+    background-color:rgba(128, 128, 128, 0.377);
+    color:white;
+    text-align:center;
+    float:center;
+    font-family:'Courier New', Courier, monospace;
+    display:flex;
+    align-self:center;
+}
+section{
+    width:100%;
+    height:450px;
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+}
+img{
+    height:15vw;
+    width:15vw;
+    float:center;
+    }
+    footer{
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+    background-color:rgba(128, 128, 128, 0.377);
+    color:white;
+    text-align:center;
+    float:center;
+    font-family:'Courier New', Courier, monospace;
+    }
+    body{
+        background-color:grey;
+    }
